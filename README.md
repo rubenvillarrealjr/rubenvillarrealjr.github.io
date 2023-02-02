@@ -1,6 +1,6 @@
 # RUBEN VILLARREAL JR
 ## Trying to learn how to make a website
-### (and not doing to hot at it)
+### (and not doing too hot at it) : (
 #### H4
 ##### H5
 ###### H6
